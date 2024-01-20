@@ -25,3 +25,27 @@ cd ~/klipper/
 make menuconfig
 ```
 
+
+
+Ensuite vous pouvez compiler
+
+```
+sudo service klipper stop
+make flash
+sudo service klipper start
+```
+
+En cas d'erreur "Autorisation refusée, il faut ajouter votre utilisateur au groupe tty
+```
+sudo usermod -a -G tty pi
+```
+
+## Fin de configuration
+
+Ajouter le fichier *mkspi.cfg* sur votre imprimante
+
+Faite un include de celui-ci dans votre *printer.cfg*
+```
+[include mkspi.cfg]
+```
+
