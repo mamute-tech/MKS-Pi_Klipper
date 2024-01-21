@@ -5,3 +5,6 @@ Pi system is from (Link in this repo [*System Images*](/System_Images/README.md)
 
 To use GPIOs, you need to use the MKS-Pi as a secondary MCU (this article is based on Klipper documentation and maybe not up to date)
 log ssh with user *mks*  (factory password is *makerbase* for *mks* and *root*)
+
+
+*writing in progress see french version for more informations*
