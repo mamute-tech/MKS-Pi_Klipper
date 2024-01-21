@@ -25,6 +25,7 @@ cd ~/klipper/
 make menuconfig
 ```
 
+*écriture en cours, cette partie sera bientôt détaillée*
 
 
 Ensuite vous pouvez compiler
