@@ -14,7 +14,7 @@
 
 # MKS-PI Hat GPIO card
 
-- Hat card project for MKS-Pi, to simplify GPIOs acces
+- Hat card project for MKS-Pi, to simplify GPIOs access
   
       - ADXL345 connection with JST-XH2.5 6 contacts
       - 8 GPIOs acces with JST-XH2.5 3 contacts
