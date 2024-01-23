@@ -14,11 +14,12 @@
 
 # MKS-PI Hat GPIO card
 
-Hat card project for MKS-Pi, to simplify GPIOs acces
-    - ADXL345 connection with JST-XH2.5 6 contacts
-    - 8 GPIOs acces with JST-XH2.5 3 contacts
-    - Choose power voltage for IO connectors
-        - MKS-Pi internal 3.3V
-        - MKS-Pi internal 5V
-        - External power from Screw terminal block with fuse protection which will be choose by use and voltage
-    - Cooling fan powered by MKS-Pi 5V (30x30mm)
+- Hat card project for MKS-Pi, to simplify GPIOs acces
+  
+      - ADXL345 connection with JST-XH2.5 6 contacts
+      - 8 GPIOs acces with JST-XH2.5 3 contacts
+      - Choose power voltage for IO connectors
+          - MKS-Pi internal 3.3V
+          - MKS-Pi internal 5V
+          - External power from Screw terminal block with fuse protection which will be choose by use and voltage
+      - Cooling fan powered by MKS-Pi 5V (30x30mm)
